@@ -1,0 +1,8 @@
+﻿  Testtic.c
+c:\users\anama\source\repos\training\tic\testtic.c(45): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "const char *const " und "char" unterschiedlich
+c:\users\anama\source\repos\training\tic\testtic.c(45): warning C4024: "printf": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\anama\source\repos\training\tic\testtic.c(57): error C2449: "{" auf Dateiebene gefunden - fehlt der Funktionsheader?
+c:\users\anama\source\repos\training\tic\testtic.c(65): error C2059: Syntaxfehler: "}"
+c:\users\anama\source\repos\training\tic\testtic.c(112): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "const char *const " und "char" unterschiedlich
+c:\users\anama\source\repos\training\tic\testtic.c(112): warning C4024: "printf": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\anama\source\repos\training\tic\testtic.c(147): warning C4026: Funktion mit Liste formaler Parameter deklariert
